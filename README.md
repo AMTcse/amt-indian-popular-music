@@ -10,6 +10,10 @@ This repository contains a manually aligned dataset of Indian popular music voca
 - **`ground_truth_midi/`**  
   MIDI files downloaded from [MuseScore](https://musescore.com/), used as ground truth.
 
+  - **`song_list.csv/`**  
+This CSV file contains the list of Indian popular music tracks used in this dataset. Each entry represents a unique vocal audio file available in the audio_mp3/ folder. 
+
+
 ---
 
 ## 🛠️ Dataset Preparation and Manual Alignment
